@@ -8,7 +8,7 @@ Used in brute-forcing Bitcoin private keys. The main purpose of this project is 
 
 There are two ways to receive mining rewards using this system. 
 
-**1.** You will be paid 0.000492	 KEY for each block which is based on the listed price KEY with XeggeX.com. 
+**1.** You will be paid 0.000492	 KEY for each block which is based on the listed price KEY.
 
 **2.** If a puzzle is solved then the total balance minded will sent up to the amount found.  
 
