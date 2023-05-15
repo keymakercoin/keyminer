@@ -10,6 +10,7 @@ Depending on the type of NVIDIA card you may need to adjust these swiches based 
 
 keyminer-cli.exe --blocks=64 --points=2500 --threads=256
 
+![](./config.png)
 
 
 ### Dependencies
