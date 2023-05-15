@@ -4,13 +4,17 @@ Used in brute-forcing Bitcoin private keys. The main purpose of this project is 
 
 ![](./keyminer.png)
 
-
+### Settings
 
 Depending on the type of NVIDIA card you may need to adjust these swiches based on the memory capacity. These settings work well with the RTX 3060TI GPU.  
 
 keyminer-cli.exe --blocks=64 --points=2500 --threads=256
 
+### Config
+
 ![](./config.png)
+
+The pool address will be provided soon since we are still testing. ` GPU_COL_ENABLE `  should equal true and `GPU_COL_bit` should equal the puzzle you would like to work on. See the puzzle list [Bitcoin Puzzles](puzzles/README.md).
 
 
 ### Dependencies
