@@ -6,6 +6,12 @@ Used in brute-forcing Bitcoin private keys. The main purpose of this project is 
 
 
 
+Depending on the type of NVIDIA card you may need to adjust these swiches based on the memory capacity. These settings work well with the RTX 3060TI GPU.  
+
+keyminer-cli.exe --blocks=64 --points=2500 --threads=256
+
+
+
 ### Dependencies
  
 .NET: Dotnet Core 6.0
