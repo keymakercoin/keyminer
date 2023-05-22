@@ -23,7 +23,7 @@ keyminer-cli.exe --blocks=64 --points=2500 --threads=256
 ###
 
 Commands
-`
+```
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
                                 [HELP]"
 
@@ -41,7 +41,7 @@ Example:
 keyminer-cli --user=39vd38JG9ZCzyAraRrfTQLLqHzWNB2dabh.w1 --collide=true --puzzle=65
 
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-`
+```
 
 ### Dependencies
  
