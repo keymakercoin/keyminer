@@ -8,9 +8,10 @@ Used in brute-forcing Bitcoin private keys. The main purpose of this project is 
 
 There are two ways to receive mining rewards using this system. 
 
-**1.** You will be paid 0.000492	 KEY for each block which is based on the listed price KEY.
+**1.** For every range assigned to your miner you will receive the current market price of KEY times 2500.
 
-**2.** If a puzzle is solved then the total balance minded will sent up to the amount found.  
+**2.** If a puzzle is solved then each miner will receive double the amount of KEY based on the total balance. 
+
 
 ### Settings
 
