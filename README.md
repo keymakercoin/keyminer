@@ -35,7 +35,7 @@ Commands
  --collide=false          Enables or Disabled Collision mining
  --puzzle=65              Set the current puzzle / bit range to look for collisions
 
- --pool={Chr(34)}https://poolname:80{Chr(34)}   Sets the pool server address.
+ --pool=https://pool.keymaker.cc  Sets the pool server address.
 
 Example:
 keyminer-cli --user=39vd38JG9ZCzyAraRrfTQLLqHzWNB2dabh.w1 --collide=true --puzzle=65
