@@ -25,7 +25,7 @@ keyminer-cli.exe --blocks=64 --points=2500 --threads=256
 Commands
 ```
 ■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
-                                [HELP]"
+                                [HELP]
 
  --user=                  Enter Keymaker worker 
        ex: 39vd38JG9ZCzyAraRrfTQLLqHzWNB2dabh.w
