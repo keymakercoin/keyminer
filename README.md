@@ -19,11 +19,28 @@ Depending on the type of NVIDIA card you may need to adjust these swiches based 
 
 keyminer-cli.exe --blocks=64 --points=2500 --threads=256
 
-### Config
 
-![](./config.png)
+###
 
-The pool address will be provided soon since we are still testing. ` GPU_COL_ENABLE `  should equal true and `GPU_COL_bit` should equal the puzzle you would like to work on. See the puzzle list [Bitcoin Puzzles](puzzles/README.md).
+Commands
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+                                [HELP]"
+
+ --user=                  Enter Keymaker worker 
+       ex: 39vd38JG9ZCzyAraRrfTQLLqHzWNB2dabh.w
+ --points=2500            N blocks")
+ --blocks=64              N threads per block
+ --threads=256            N points per thread
+ --collide=false          Enables or Disabled Collision mining
+ --puzzle=65              Set the current puzzle / bit range to look for collisions
+
+ --pool={Chr(34)}https://poolname:80{Chr(34)}   Sets the pool server address.
+
+Example:
+keyminer-cli --user=39vd38JG9ZCzyAraRrfTQLLqHzWNB2dabh.w1 --collide=true --puzzle=65
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 
 
 ### Dependencies
