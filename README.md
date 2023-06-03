@@ -1,7 +1,7 @@
 # Keyminer BTC Collider
 
 
-Used in brute-forcing Bitcoin private keys. The main purpose of this project is to contribute to the effort of solving the Bitcoin puzzle transaction: A transaction with 32 addresses that become increasingly difficult to crack.
+Used in brute-forcing Bitcoin private keys. The main purpose of this project is to contribute to the effort of solving the Bitcoin puzzle transaction: A transaction with 32 addresses that become increasingly difficult to crack. This miner is preset to use pool.keymaker.cc for the pool address. 
 
 ![](./keyminer.png)
 
